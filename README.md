@@ -64,7 +64,6 @@ This project demonstrates a full experimentation workflow:
 - A/B test design and metric selection  
 - Power analysis and sample size estimation  
 - Two-proportion z-tests and confidence intervals  
-- Logistic regression with clustered standard errors  
 - Guardrail analysis for risk assessment  
 - Segmentation analysis and interaction modeling  
 
@@ -103,7 +102,7 @@ The treatment produces a meaningful increase in paid conversions without harming
 
 - notebook/ — full analysis notebook  
 - data/ — simulated dataset  
-- images/ — visualizations  
+- assets/ — visualizations  
 
 ---
 

@@ -134,7 +134,6 @@ Estimated required sample size:
 - Compare conversion rates between treatment and control  
 - Estimate lift (absolute and relative)  
 - Conduct two-proportion z-tests and confidence intervals  
-- Validate results using logistic regression with clustered standard errors  
 - Evaluate guardrails for unintended effects  
 - Conduct segmentation analysis (e.g., by Prime eligibility) to explore heterogeneity  
 
@@ -144,7 +143,7 @@ Estimated required sample size:
 
 - Focus on both statistical significance and practical impact  
 - Use confidence intervals to assess uncertainty  
-- Treat segmentation results as exploratory unless formally validated  
+- Treat segmentation results as exploratory
 
 ---
 
@@ -161,9 +160,8 @@ We expect:
 ## 14. Follow-Up Opportunities
 
 - Personalization based on user context (eligibility, engagement)  
-- Optimization of microcopy variants (A/B/n testing)  
 - UI/UX improvements to CTA placement and prominence  
-- Evaluation of long-term retention and lifetime value  
+- Optimization of microcopy variants (A/B/n testing)  
 
 ---
 

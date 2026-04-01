@@ -113,7 +113,7 @@ The goal is to simulate a realistic experimentation setting while ensuring inter
 
 ## Sample Data
 
-This repository will soon include a **small sample dataset** in the `data/` directory to allow the notebook to run end-to-end.
+This repository will soon include a **small representative sample dataset** in the `data/` directory to allow the notebook to run end-to-end.
 
 The sample:
 
